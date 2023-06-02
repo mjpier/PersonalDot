@@ -1,0 +1,231 @@
+MIOS
+
+base-minimal
+
+btrfs-progs
+
+bash
+
+less
+
+man-pages
+
+e2fsprogs
+
+pciutils
+
+usbutils
+
+iproute2
+
+dhcpcd
+
+kbd
+
+ethtool
+
+kmod
+
+iputils
+
+xfsprogs
+
+f2fs-tools
+
+dosfstools
+
+traceroute
+
+ncurses
+
+acpid
+
+eudev
+
+file
+
+mdocml
+
+wpa_supplicant
+
+iw
+
+ipw2100-firmware
+
+ipw2200-firmware
+
+zd1211-firmware
+
+##############
+
+linux-firmware-amd
+
+linux-firmware-intel
+
+linux-firmware-nvidia
+
+linux-firmware-network 
+
+linux-firmware-amd
+
+linux-firmware-broadcom
+
+linux-firmware-intel
+
+linux-firmware-nvidia
+
+linux-firmware-network
+
+linux-firmware-qualcomm
+
+linux6.3
+
+linux6.3-headers
+
+dracut
+
+efibootmgr
+
+opendoas
+
+git
+
+cryptsetup
+
+###############
+
+bspwm *
+
+sxhkd *
+
+dunst *
+
+picom *
+
+ksuperkey *
+
+xclip *
+
+wmname *
+
+betterlockscreen *
+
+i3
+
+rofi *
+
+polybar *
+
+xsetroot *
+
+xset *
+
+xsettingsd *
+
+xfce4-power-manager *
+
+xfce-polkit *
+
+alacritty *
+
+neovim
+
+zsh *
+
+ueberzug *
+
+viewnior *
+
+gwenview
+
+nitrogen
+
+feh
+
+Thunar *
+
+mpd *
+
+ncmpcpp *
+
+mpc *
+
+maim *
+
+ranger *
+
+geany *
+
+ffmpeg *
+
+i3lock-color
+
+htop *
+
+iw *
+
+iwd *
+
+jq *
+
+keepassxc *
+
+kvantum *
+
+qt5ct *
+
+libreoffice *
+
+libreoffice-write *
+
+libreoffice-calc *
+
+libreoffice-impress *
+
+base-devel *
+
+mplayer *
+
+nano *
+
+NetworkManager *
+
+wpa_supplicant *
+
+slop *
+
+unrar *
+
+unzip*
+
+p7zip *
+
+xarchiver *
+
+xcolor *
+
+xdg-user-dirs *
+
+xdotool *
+
+setxkbmap *
+
+xauth *
+
+xbacklight o acpilight *
+
+xdpyinfo *
+
+xmodmap
+
+xprop *
+
+xrandr *
+
+xrdb *
+
+xwininfo *
+
+dbus
+
+lvm2
